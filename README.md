@@ -1,0 +1,2 @@
+# phpinfo
+Check php info
