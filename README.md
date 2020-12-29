@@ -1,2 +1,2 @@
 # phpinfo
-Check php info
+Check php information
